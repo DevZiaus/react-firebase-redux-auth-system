@@ -154,7 +154,7 @@ src/
 **DevZiaus**
 
 - GitHub: [@DevZiaus](https://github.com/DevZiaus)
-- LinkedIn: [LinkedInd](https://www.linkedin.com/in/devziaus)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/devziaus)
 
 ---
 
